@@ -1,6 +1,0 @@
-5.4.1f1:2.3.0.0
-StandaloneWindows
-H:/Dev_Tools/Unity/Editor/Data/Managed/UnityEngine.dll
-H:/Dev_Tools/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
-H:/Dev_Tools/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
-H:/Dev_Tools/Unity/Editor/Data/Managed/UnityEditor.dll
