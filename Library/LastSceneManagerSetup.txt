@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Joints.unity
+- path: Assets/Battleground.unity
   isLoaded: 1
   isActive: 1
